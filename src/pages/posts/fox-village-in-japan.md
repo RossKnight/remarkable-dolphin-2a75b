@@ -1,5 +1,5 @@
 ---
-title: Jellies
+title: Jelly Fish
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
