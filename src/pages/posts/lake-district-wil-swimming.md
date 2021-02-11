@@ -1,5 +1,5 @@
 ---
-title: Sea Swimming
+title: Total Immersion
 subtitle: lorem-ipsum
 date: '2016-08-22'
 thumb_img_alt: lorem-ipsum
