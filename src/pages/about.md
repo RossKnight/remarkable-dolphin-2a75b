@@ -9,7 +9,7 @@ After many years of rarely looking up from a computer  screen I decided it was t
 
 5 years on it appears I wish it was something I never gave up in the first place.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Ross Knight ;-)</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
