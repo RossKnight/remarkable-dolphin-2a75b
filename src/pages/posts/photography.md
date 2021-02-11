@@ -8,7 +8,7 @@ excerpt: >-
   such as photographic film.
 date: '2018-01-15'
 thumb_img_path: images/Equipment.jpg
-content_img_path: images/8.jpg
+content_img_path: images/happy-pluto.jpg
 template: post
 ---
 
