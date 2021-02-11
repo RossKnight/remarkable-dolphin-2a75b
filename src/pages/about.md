@@ -7,7 +7,7 @@ template: page
 
 After many years of rarely looking up from a computer  screen I decided it was time to consider the impact on my health. As such I decided to get back to the pool and recreate some of the swim sessions I undertook in my 20's.
 
-5 years on it appears turns out I caught the bug.
+5 years on it appears  I caught the bug.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
