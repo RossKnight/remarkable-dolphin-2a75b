@@ -1,5 +1,5 @@
 ---
-title: Open / Wild Water Swimming
+title: Open / Wild Water Swimming Equipment
 subtitle: A intresting tale about Photography and me
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
