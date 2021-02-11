@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: LakeDIstrict WilSwimming
 subtitle: lorem-ipsum
 date: '2016-08-22'
 thumb_img_alt: lorem-ipsum
