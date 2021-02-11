@@ -12,6 +12,6 @@ After many years of rarely looking up from a computer  screen I decided it was t
 
 Now, 5 years on, I reckon I would give my younger self a good race (if only because of an improved technique).
 
-I have now completed a range of events from Marathons, Triathlons (including being an Age Grouper in the European Championships) and a number of distance swims. This blog however is not about self promotion or a swim log, nor is it about recording my events, positions and results. Instead it is just a collection of memorable swim related occassions and a few tips that I hope you may find helpful.
+I have now completed a range of events from Marathons, Triathlons (including being an Age Grouper in the European Championships) and a number of distance swims. This blog however is not about self promotion or a swim log, nor is it about recording my events, positions and results. Instead it is just a collection of memorable swim experiences and a few tips that I hope you may find helpful.
 
 *Thank You for reading!*
