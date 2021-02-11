@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: When I am not swimming I work in eCommerce
+subtitle: My name is Ross Knight and When I am not swimming I work in eCommerce
 img_path: images/about.jpg
 template: page
 ---
