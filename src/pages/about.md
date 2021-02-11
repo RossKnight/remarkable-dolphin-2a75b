@@ -5,7 +5,7 @@ img_path: images/about.jpg
 template: page
 ---
 
-After many years of rarely looking up from a computer  screen I decided it was time to consider the impact on my health. As such  This started by getting back into the pool which  [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+After many years of rarely looking up from a computer  screen I decided it was time to consider the impact on my health. As such I decided to get back to the pool which This started by getting back into the pool which  [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
