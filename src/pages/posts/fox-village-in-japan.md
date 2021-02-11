@@ -11,7 +11,7 @@ excerpt: >-
   distinction between rooms and indoor and outdoor space.
 date: '2018-01-11'
 thumb_img_path: images/JellyFish.jpg
-content_img_path: images/10.jpg
+content_img_path: images/terrific-potato.jpg
 template: post
 thumb_img_alt: Jelly Fish
 ---
