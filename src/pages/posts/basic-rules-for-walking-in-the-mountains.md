@@ -8,6 +8,7 @@ date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 template: post
+thumb_img_alt: Swimming In Lockdown
 ---
 
 ![Hiking](/images/2.jpg)
