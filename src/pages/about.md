@@ -9,6 +9,6 @@ After many years of rarely looking up from a computer  screen I decided it was t
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Ross Knight ;-)</cite>
 
-This blog is not about self promotion, nor about 
+This blog is not about self promotion, nor about religioulsyl recording my 
 
 *Thank You for reading!*
