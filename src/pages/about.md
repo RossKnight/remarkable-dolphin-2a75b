@@ -9,6 +9,6 @@ After many years of rarely looking up from a computer  screen I decided it was t
 
 >A huge part of swimming for me is I love it, and it is so much fun. <cite>Missy Franklin</cite>
 
-I have now completed a range of events from Marathons, Triathlons (including representing GBR in ) and was fortunte to  This blog is not about self promotion, nor about religioulsyl recording my 
+I have now completed a range of events from Marathons, Triathlons (including as GBR in ) and was fortunte to  This blog is not about self promotion, nor about religioulsyl recording my 
 
 *Thank You for reading!*
