@@ -7,7 +7,7 @@ excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
 date: '2019-03-24'
-thumb_img_path: images/4.jpg
+thumb_img_path: images/elite-mustard.jpg
 hide_header: true
 template: post
 content_img_path: images/IMG_20180628_065134 (1).jpg
