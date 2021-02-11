@@ -1,5 +1,5 @@
 ---
-title: LakeDIstrict WilSwimming
+title: Sea Swimming
 subtitle: lorem-ipsum
 date: '2016-08-22'
 thumb_img_alt: lorem-ipsum
