@@ -1,5 +1,5 @@
 ---
-title: Total Immersion
+title: Total Immersion Swimming Technique
 subtitle: lorem-ipsum
 date: '2016-08-22'
 thumb_img_alt: lorem-ipsum
