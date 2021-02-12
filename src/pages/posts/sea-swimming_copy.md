@@ -6,7 +6,7 @@ excerpt: >-
   as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2017-08-23'
 thumb_img_path: images/Cold.jpg
-content_img_path: images/oceanic-sage.jpg
+content_img_path: images/panoramic-coriander.jpg
 template: post
 thumb_img_alt: Pool Swimming
 ---
