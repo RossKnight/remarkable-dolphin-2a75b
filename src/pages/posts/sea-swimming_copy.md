@@ -1,5 +1,5 @@
 ---
-title: Ice Swimming
+title: Cold (not quite ice) Swimming
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
