@@ -8,7 +8,7 @@ excerpt: >-
   square miles (784 km2), New York is also the most densely populated major city
   in the United States.
 date: '2019-04-01'
-thumb_img_path: images/ETU.jpg
+thumb_img_path: images/HongKongv1.jpeg
 content_img_path: images/adorable-panda.jpg
 template: post
 thumb_img_alt: European Triathlon Union - Târgu Mureș Aquathlon
