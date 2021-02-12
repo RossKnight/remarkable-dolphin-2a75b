@@ -8,7 +8,6 @@ excerpt: >-
   health will recharge and how I benefit from it.
 date: '2019-03-24'
 thumb_img_path: images/GladhouseResivoir.jpg
-[hide_header: true]
 template: post
 content_img_path: images/GladhouseResivoir.jpeg
 ---
