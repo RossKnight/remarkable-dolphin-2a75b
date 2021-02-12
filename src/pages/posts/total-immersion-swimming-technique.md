@@ -9,7 +9,7 @@ excerpt: >-
   as a WAHM (work at home mom) or a WAHD (work at home dad).
 hide_header: false
 template: post
-thumb_img_path: images/9.jpg
+thumb_img_path: images/kind-giraffe.jpg
 content_img_path: images/9.jpg
 ---
 
