@@ -20,7 +20,7 @@ form_fields:
     default_value: Please select
     options:
       - Error on the site
-      - Sponsorship
+      - General Enquiry
       - Other
   - input_type: textarea
     name: message
