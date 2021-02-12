@@ -6,7 +6,6 @@ excerpt: >-
   making it the most sparsely populated country in Europe.
 date: '2018-01-09'
 thumb_img_path: images/Shetland.jpg
-hide_header: true
 template: post
 content_img_path: images/blue-birch.jpg
 thumb_img_alt: Swimming In Shetland
