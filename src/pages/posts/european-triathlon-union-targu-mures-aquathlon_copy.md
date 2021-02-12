@@ -1,5 +1,5 @@
 ---
-title: European Triathlon Union - Târgu Mureș Aquathlon
+title: Hong Kong Cold Water Plunge
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
