@@ -9,7 +9,7 @@ excerpt: >-
   in the United States.
 date: '2019-04-01'
 thumb_img_path: images/HongKongv1.jpeg
-content_img_path: images/adorable-panda.jpg
+content_img_path: images/polite-parsley.jpeg
 template: post
 thumb_img_alt: Hong Kong Cod Water Plunge
 ---
