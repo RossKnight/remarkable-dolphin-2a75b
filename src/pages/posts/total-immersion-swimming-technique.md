@@ -2,7 +2,7 @@
 title: Total Immersion Swimming Technique
 subtitle: lorem-ipsum
 date: '2016-08-22'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Total Immersion Swimming Tech
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
