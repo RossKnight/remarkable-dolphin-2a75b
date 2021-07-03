@@ -1,7 +1,7 @@
 {
     "palette": "blue",
     "header": {
-        "title": "Fjord",
+        "title": "Swim Open Water",
         "tagline": "In it for the experience!",
         "logo_img": "images/logov4.png",
         "logo_img_alt": "Swim Open Water",
@@ -28,7 +28,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/rossknight",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true

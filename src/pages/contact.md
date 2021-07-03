@@ -19,7 +19,6 @@ form_fields:
     label: Subject
     default_value: Please select
     options:
-      - Error on the site
       - General Enquiry
       - Other
   - input_type: textarea

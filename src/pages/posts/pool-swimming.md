@@ -11,6 +11,9 @@ template: post
 thumb_img_alt: Pool Swimming
 ---
 
+Time allocated to healthy activities during my twenties was typically spent in the pool. Not been confident in my abilities I didn't join a swimming club but "dipped" in to various pools throughout Edinburgh (my favourite being GlenOgle in Stockbridge). I was regular though and over the period of a number of years swam 4 times plus a week.
+
+
 **Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
 
 ## Advantages and Disadvantages 
